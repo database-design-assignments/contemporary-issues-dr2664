@@ -1,3 +1,15 @@
 # Contemporary Issues In Data
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+The issue I have chosen to explore is whether facial recognition software should be widely used, especially in light of the recent Capitol attack. The two articles below explain the benefits to law enforcement, as well as the significant harm to communities of color. 
+
+## Article 1: "The facial-recognition app Clearview sees a spike in use after Capitol attack."
+https://www.nytimes.com/2021/01/09/technology/facial-recognition-clearview-capitol.html?searchResultPosition=3
+
+This article discusses how Clearview AI, the controversial facial recognition software, has been used by police forces across the country to capture the perpetrators of the Capitol attack. In it, the benefits of using such software are clearly displayed when speaking with law enforcement officials who state how beneficial the software has been to them. It also discusses the effectiveness of the facial recognition software used, called Clearview AI, and along with it, its potential ethical violations.
+This article, in my opinion, is aiming to state the facts of the story that Clearview is being used. However, it does not go deeper into the widely-recognized ethical concerns surround Clearview AI, and rather focuses on the advantage it gives police officers after a major attack like this, especially one documented so well on the internet. Certainly, many of the perpetrators would have been harder or impossible to catch without such software, and these were individuals who deserved to face justice. 
+
+## Article 2: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
+https://www.latimes.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities
+
+This article acknowledges the benefits of Clearview AI in use for the Capitol attack, but strongly advocates against its widespread adoption. By citing multiple ways in which communities of color are already surveilled and wrongfully arrested, convicted, and harrassed, the article seeks to show that Clearview AI will almost certainly make this discrimination even worse. It in general makes the point that increasing policing in response to conflict is countereffective and leads to significant harmful discrimination. 
+In particular, the article's argument relies upon the common issue with machine learning, which is the bias that can be present when training data. A bias against communities of color has been noticed in other criminal justice softwares, such as sentencing software that is skewed towards harsher sentences for black men. It also cites the same internal study conducted by Clearview AI that the prior article did, which found that there was no racial bias in the software. However, it brings up a counterpoint by Jacob Snow from the ACLU who states that the study was skewed and "absurd on many levels." Overall, this article asserts that any such software and any trends towards greater policing will have serious consequences for marginalized Americans, regardless of the slight benefits in situations such as the Capitol attack.
